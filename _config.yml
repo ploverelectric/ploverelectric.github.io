@@ -1,0 +1,16 @@
+name: Plover Electric
+author: Plover Electric
+markdown: redcarpet
+highlighter: pygments
+baseurl: 
+description: 
+github: http://www.github.com/ploverelectric
+twitter: http://www.twitter.com/ploverelectric
+# facebook: http://www.facebook.com
+# linkedin: http://www.linkedin.com
+email: web@ploverelectric.com
+location: 42°2'16"N   70°12'47"W
+# disqus: diqus-username
+permalink: pretty
+##Make sure to edit the above fields, especially for disqus.
+
