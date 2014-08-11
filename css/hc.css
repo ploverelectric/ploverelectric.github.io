@@ -184,12 +184,18 @@ p
   color:#5d5f67
 }
 
+.sidebar-nav-sub li
+{
+  list-style:none;
+}
+
 .nav-toggle {
     display: none;
     color: #d90006;
     padding-left: 10px;
     padding-top: 10px;
   }
+
 
 .brand
 {
